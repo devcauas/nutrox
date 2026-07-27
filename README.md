@@ -81,7 +81,7 @@ Home
 
 ---
 
-# 💡 Objetivo
+# Objetivo
 
 O Nutrox foi desenvolvido com o objetivo de oferecer uma solução simples para organização alimentar, permitindo que usuários gerenciem alimentos e cardápios em uma interface intuitiva.
 
@@ -89,7 +89,7 @@ Além do propósito funcional, o projeto serviu como prática de conceitos impor
 
 ---
 
-# ⚙ Como executar
+# Como executar
 
 ## Pré-requisitos
 
