@@ -1,4 +1,4 @@
-# 🥗 Nutrox
+# Nutrox
 
 Aplicativo mobile desenvolvido em **Flutter** para auxiliar usuários no gerenciamento da alimentação por meio do cadastro de alimentos, criação de cardápios personalizados e gerenciamento do perfil.
 
@@ -6,21 +6,7 @@ O projeto foi desenvolvido como forma de aplicar conceitos de desenvolvimento mo
 
 ---
 
-## 📱 Demonstração
-
-> Adicione aqui um GIF ou capturas de tela da aplicação.
-
-| Login | Home | Perfil |
-|------|------|------|
-| ![](docs/login.png) | ![](docs/home.png) | ![](docs/profile.png) |
-
-| Cardápios | Alimentos | Pesquisa |
-|------|------|------|
-| ![](docs/cardapios.png) | ![](docs/alimentos.png) | ![](docs/pesquisa.png) |
-
----
-
-# ✨ Funcionalidades
+# Funcionalidades
 
 - Cadastro de usuários
 - Login
@@ -37,7 +23,7 @@ O projeto foi desenvolvido como forma de aplicar conceitos de desenvolvimento mo
 
 ---
 
-# 🏗 Arquitetura
+# Arquitetura
 
 O projeto foi organizado utilizando separação de responsabilidades, tornando o código mais organizado e de fácil manutenção.
 
@@ -68,7 +54,7 @@ lib/
 
 ---
 
-# 🚀 Tecnologias
+# Tecnologias
 
 - Flutter
 - Dart
@@ -77,7 +63,7 @@ lib/
 
 ---
 
-# 📲 Fluxo da aplicação
+# Fluxo da aplicação
 
 ```text
 Splash Screen
@@ -138,7 +124,7 @@ flutter run
 
 ---
 
-# 📂 Organização do projeto
+# Organização do projeto
 
 ```
 lib
@@ -155,7 +141,7 @@ lib
 
 ---
 
-# 📈 Aprendizados
+# Aprendizados
 
 Durante o desenvolvimento deste projeto foram aplicados conhecimentos em:
 
@@ -170,7 +156,7 @@ Durante o desenvolvimento deste projeto foram aplicados conhecimentos em:
 
 ---
 
-# 🔮 Melhorias futuras
+# Melhorias futuras
 
 - Autenticação utilizando Firebase Authentication
 - Sincronização em nuvem
@@ -180,9 +166,3 @@ Durante o desenvolvimento deste projeto foram aplicados conhecimentos em:
 - Tema escuro
 - Testes automatizados
 - Publicação na Play Store
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT.
